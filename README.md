@@ -17,13 +17,6 @@ Sweet, simple, and made to bring a smile to someone special ✨
 
 To run this project locally, follow these steps:
 ```bash
-# Clone the repository
-
-Git Clone https://github.com/princekumar-dev74/love-lyrics-site.git
-
-# Navigate into the folder
-
-cd love-lyrics-site
 
 # Install dependencies
 npm install
@@ -70,4 +63,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
